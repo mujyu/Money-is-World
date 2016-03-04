@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":false,"name":"デバッグ用マップ","order":1,"parentId":0,"scrollX":1092,"scrollY":641.3333333333334},
-{"id":2,"expanded":false,"name":"テスト街マップ","order":2,"parentId":0,"scrollX":4272,"scrollY":822.6666666666666},
-{"id":3,"expanded":false,"name":"街","order":3,"parentId":0,"scrollX":8942,"scrollY":724},
-{"id":4,"expanded":false,"name":"キャラ選択","order":4,"parentId":0,"scrollX":832,"scrollY":640}
+{"id":2,"expanded":false,"name":"テスト街マップ","order":2,"parentId":0,"scrollX":4272,"scrollY":822},
+{"id":3,"expanded":false,"name":"街","order":3,"parentId":0,"scrollX":8317.714285714284,"scrollY":676.2857142857142},
+{"id":4,"expanded":false,"name":"キャラ選択","order":4,"parentId":0,"scrollX":929.1428571428571,"scrollY":522}
 ]
