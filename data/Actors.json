@@ -7,5 +7,5 @@ null,
 {"id":5,"battlerName":"カルロス","characterIndex":0,"characterName":"カルロス","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"カルロス","traits":[],"initialLevel":1,"maxLevel":99,"name":"カルロス","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"マルティナ","nickname":"","note":"隠しキャラ","profile":""},
 {"id":7,"battlerName":"どろにんぎょう","characterIndex":0,"characterName":"どろにんぎょう","classId":7,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"たましいちゃん","nickname":"","note":"","profile":""},
-{"id":8,"battlerName":"アッシュ","characterIndex":0,"characterName":"アッシュ","classId":8,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"hero1","traits":[{"code":11,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"アッシュ","nickname":"","note":"","profile":"異界からきた機械仕掛けの体を持つ少女。\n賞金で手早く人間の体を買おうとする向こう見ず。"}
+{"id":8,"battlerName":"アッシュ","characterIndex":0,"characterName":"アッシュ","classId":8,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"hero1","traits":[{"code":11,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"アシュリー","nickname":"","note":"","profile":"異界からきた機械仕掛けの体を持つ少女。\n賞金で手早く人間の体を買おうとする向こう見ず。"}
 ]
